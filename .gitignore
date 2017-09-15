@@ -1,0 +1,8 @@
+.idea/*
+*.pyc
+*.jpg
+*.swp
+Thumbs.db
+tf_main/checkpoints/*
+cats_dogs.npz
+*.tfrecords
